@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "           Font Sleek          "
+  ui_print " Font Tsukushimarugo-A & sleek "
   ui_print "*******************************"
 }
 
