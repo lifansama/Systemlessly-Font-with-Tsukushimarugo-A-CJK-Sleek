@@ -1,1 +1,1 @@
-Contact: humorce@gmail.com
+Contact: humorce@outlook.com
