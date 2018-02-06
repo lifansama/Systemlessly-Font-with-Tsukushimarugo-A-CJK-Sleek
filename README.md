@@ -6,4 +6,4 @@
 <img src="https://raw.githubusercontent.com/HUMORCE/humorce.github.io/master/images/Systemlessly-Font-with-Tsukushimarugo-A-CJK-Sleek-Demo.png" alt="Screenshot" height="720px">
 
 ## Contact ##
-humorce@outlook.com or 😁commit a Issues😁
+humorce#outlook.com
