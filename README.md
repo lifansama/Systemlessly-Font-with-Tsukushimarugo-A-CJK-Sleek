@@ -3,7 +3,7 @@
 * [Systemlessly]	replaces font with 筑紫A丸(Tsukushimarugo-A) & sleek .
 
 ## Screenshot ##
-<img src="https://raw.githubusercontent.com/HUMORCE/humorce.github.io/master/images/Systemlessly-Font-with-Tsukushimarugo-A-CJK-Sleek-Demo.png" alt="Screenshot" height="720px">
+!(here)[https://www.google.com/search?newwindow=1&tbm=isch&source=hp&biw=2560&bih=1319&ei=PD8BW5iXGYT28QWFm4eoAg&q=Tsukushimarugo-A]
 
 ## Contact ##
 humorce#outlook.com
